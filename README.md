@@ -1,6 +1,7 @@
 # bold-test-ios
 
 Prueba tecnica
+
 En esta prueba implemente a nivel de arquitectura clean arquitecture con mvvvm(SwiftUi) y combine :
 
 - Se implemento DI con resolver realizando implementaciones basadas en principios solid y buenas practicas de desarrollo.
